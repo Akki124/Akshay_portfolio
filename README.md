@@ -14,7 +14,7 @@ o Designed a recommendation engine to suggest styles based on user preferences.
 o Implemented TF-IDF and cosine similarity to analyze product names and provide tailored suggestions.
 o Integrated product details, including images, ratings, and prices, into a user-friendly interface.
 
-# Automotive Data Visualization Tool
+# [Automotive Data Visualization Tool](https://github.com/Akki124/Data-Visualization-Tool-Using-Streamlit-with-integration-of-Shap-analysis)
 Tech Stack: Python, SHAP, Streamlit, Database
 o Developed an interactive data visualization platform to enhance explainability of machine learning models.
 o Utilized SHAP (Shapley Additive Explanations) for interpretability, enabling both technical and non-technical users to gain actionable insights.
